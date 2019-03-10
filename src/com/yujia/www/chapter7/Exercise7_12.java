@@ -1,3 +1,5 @@
+package com.yujia.www.chapter7;
+
 class Tank{
   boolean isFilled = false;
   Tank() {
