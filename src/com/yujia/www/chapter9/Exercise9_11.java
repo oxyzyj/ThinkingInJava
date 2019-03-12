@@ -1,14 +1,15 @@
 package com.yujia.www.chapter9;
+
 class Cleanser {
   private String s = "Cleanser";
   public void append(String a) {s += a;}
   public void dilute() { append(" dilute()");}
   public void apply() {append(" apply()");}
   public void scrub() {append(" scrub()");}
-  public String toString() {return s;}
+  @Override public String toString() {return s;}
 }
 public class Exercise9_11 {
-  Cleanser cleanser = new Cleanser();
+  private Cleanser cleanser = new Cleanser();
   private String s = "DetergentDelegation";
   public void append(String a) {s += a;}
   public void dilute() {
@@ -22,8 +23,8 @@ public class Exercise9_11 {
   public void foam() {
     append(" foam()");
   }
-  public String toString() {return s + " & " + cleanser;}
-  public static void main(String[] args) {
+  @Override public String toString() {return s + " & " + cleanser;}
+  public static void main(final String[] args) {
     Exercise9_11 x = new Exercise9_11();
     x.dilute();
     x.apply();
