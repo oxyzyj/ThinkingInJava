@@ -1,8 +1,8 @@
 package com.yujia.www.chapter10;
 
 class Cycle {
-  private String name = "Cycle";
-  private int wheels = 0;
+  private final String name = "Cycle";
+  private final int wheels = 0;
   public int getWheels() {return wheels; }
   static void travel(Cycle c) {
     System.out.println("cycle ride "+ c);
@@ -16,8 +16,8 @@ class Cycle {
   }
 }
 class Unicycle extends Cycle {
-  private String name = "Unicycle";
-  private int wheels = 1;
+  private final String name = "Unicycle";
+  private final int wheels = 1;
   @Override public int getWheels() {return wheels; }
   public void balance() {System.out.println("Unicycle balance");}
   @Override public String toString() {
@@ -25,8 +25,8 @@ class Unicycle extends Cycle {
   }
 }
 class Bicycle extends Cycle {
-  private String name = "Bicycle";
-  private int wheels = 2;
+  private final String name = "Bicycle";
+  private final int wheels = 2;
   @Override public int getWheels() {return wheels; }
   @Override public String toString() {
     return this.name;
