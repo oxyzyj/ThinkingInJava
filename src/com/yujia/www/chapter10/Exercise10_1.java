@@ -1,14 +1,13 @@
 package com.yujia.www.chapter10;
 
 class Cycle {
-  String name = "Cycle";
-  int wheels = 0;
+  private String name = "Cycle";
+  private int wheels = 0;
   public int getWheels() {return wheels; }
   static void travel(Cycle c) {
     System.out.println("cycle ride "+ c);
   }
-
-  public String toString() {
+  @Override public String toString() {
 // if do not want to override toString in Unicycle and Bicycle, need to add this:
 //   if (this instanceof Unicycle) {
 //     return ((Unicycle) this).name;
@@ -17,18 +16,19 @@ class Cycle {
   }
 }
 class Unicycle extends Cycle {
-  String name = "Unicycle";
-  int wheels = 1;
-  public int getWheels() {return wheels; }
-  public String toString() {
+  private String name = "Unicycle";
+  private int wheels = 1;
+  @Override public int getWheels() {return wheels; }
+  public void balance() {System.out.println("Unicycle balance");}
+  @Override public String toString() {
     return this.name;
   }
 }
 class Bicycle extends Cycle {
-  String name = "Bicycle";
-  int wheels = 2;
-  public int getWheels() {return wheels; }
-  public String toString() {
+  private String name = "Bicycle";
+  private int wheels = 2;
+  @Override public int getWheels() {return wheels; }
+  @Override public String toString() {
     return this.name;
   }
 }
@@ -37,10 +37,12 @@ public class Exercise10_1 {
     c.travel(c);
     System.out.println(c.getWheels());
   }
-  public static void main(String[] args) {
+  public static void main(final String[] args) {
     Unicycle u = new Unicycle();
     ride(u);
     Bicycle b = new Bicycle();
     ride(b);
+    Cycle[] cycles = {new Cycle(), new Unicycle(), new Bicycle()};
+    ((Unicycle) cycles[1]).balance();
   }
 }
