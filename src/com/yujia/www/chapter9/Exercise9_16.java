@@ -16,7 +16,7 @@ public class Exercise9_16 extends Amphibian {
   void speak2() {
     System.out.println("guagua");
   }
-  public static void main(String[] args) {
+  public static void main(final String[] args) {
     Exercise9_16 e = new Exercise9_16();
     Amphibian.speak(e);  // upcase
   }
