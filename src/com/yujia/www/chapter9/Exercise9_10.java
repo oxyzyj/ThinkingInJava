@@ -25,9 +25,9 @@ class Component3{
   }
 }
 class Root{
-  Component1 c1;
-  Component2 c2;
-  Component3 c3;
+  private Component1 c1;
+  private Component2 c2;
+  private Component3 c3;
   Root(int i) {
     c1 = new Component1(1);
     c2 = new Component2(2);
@@ -59,7 +59,7 @@ public class Exercise9_10 extends Root {
     c1.dispose();
     super.dispose();
   }
-  public static void main(String[] args) {
+  public static void main(final String[] args) {
     Exercise9_10 e = new Exercise9_10(7);
     try {
       //TODO
