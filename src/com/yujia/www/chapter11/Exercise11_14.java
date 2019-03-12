@@ -22,9 +22,8 @@ interface D1 extends A1, B1, C1 {
     void print_d11();
 }
 
-class D2 {
-    public void print_d21() {
-    }
+abstract class D2 {
+    abstract void print_d21();
 }
 
 class E1 extends D2 implements D1 {
@@ -68,7 +67,9 @@ class E1 extends D2 implements D1 {
     public void print_d11() {
     }
 
-    ;
+    @Override
+    public void print_d21() {
+    }
 }
 
 public class Exercise11_14 {

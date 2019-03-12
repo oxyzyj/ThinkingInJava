@@ -6,54 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="972815bc-dc09-4be1-ab9c-df1fc1a6f136" name="Default Changelist" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter11/A.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter11/A1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter11/Apply.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter11/B.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter11/B1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter11/C.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter11/C1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter11/D.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter11/D1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter11/D2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter11/E.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter11/E1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter11/Exercise11_11.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter11/Exercise11_13.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter11/Exercise11_14.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter11/Processor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter11/SwapPair.class" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter7/Exercise7_13$1.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter9/Amphibian.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter9/Amphibian.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter10/Bicycle.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter10/Bicycle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter9/Cleanser.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter9/Cleanser.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter9/Component1.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter9/Component1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter9/Component2.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter9/Component2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter9/Component3.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter9/Component3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter8/Connection.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter8/Connection.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter8/ConnectionManager.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter8/ConnectionManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter10/Cycle.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter10/Cycle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter10/Exercise10_1.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter10/Exercise10_1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter6/Exercise6_10.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter6/Exercise6_10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter7/Exercise7_12.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter7/Exercise7_12.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter7/Exercise7_13.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter7/Exercise7_13.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter8/Exercise8_8.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter8/Exercise8_8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter9/Exercise9_10.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter9/Exercise9_10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter9/Exercise9_11.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter9/Exercise9_11.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter9/Exercise9_16.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter9/Exercise9_16.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter9/Root.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter9/Root.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter7/Tank.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter7/Tank.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter10/Unicycle.class" afterPath="$PROJECT_DIR$/out/production/ThinkingInJava/com/yujia/www/chapter10/Unicycle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/yujia/www/chapter10/Exercise10_1.java" afterPath="$PROJECT_DIR$/src/com/yujia/www/chapter10/Exercise10_1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/yujia/www/chapter11/Exercise11_13.java" afterPath="$PROJECT_DIR$/src/com/yujia/www/chapter11/Exercise11_13.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/yujia/www/chapter11/Exercise11_14.java" afterPath="$PROJECT_DIR$/src/com/yujia/www/chapter11/Exercise11_14.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/yujia/www/chapter6/Exercise6_10.java" afterPath="$PROJECT_DIR$/src/com/yujia/www/chapter6/Exercise6_10.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/yujia/www/chapter7/Exercise7_12.java" afterPath="$PROJECT_DIR$/src/com/yujia/www/chapter7/Exercise7_12.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/yujia/www/chapter7/Exercise7_13.java" afterPath="$PROJECT_DIR$/src/com/yujia/www/chapter7/Exercise7_13.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/yujia/www/chapter8/Exercise8_8.java" afterPath="$PROJECT_DIR$/src/com/yujia/www/chapter8/Exercise8_8.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/yujia/www/chapter9/Exercise9_10.java" afterPath="$PROJECT_DIR$/src/com/yujia/www/chapter9/Exercise9_10.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/yujia/www/chapter9/Exercise9_11.java" afterPath="$PROJECT_DIR$/src/com/yujia/www/chapter9/Exercise9_11.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/yujia/www/chapter9/Exercise9_16.java" afterPath="$PROJECT_DIR$/src/com/yujia/www/chapter9/Exercise9_16.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -173,17 +126,17 @@
       <file leaf-file-name="Exercise11_14.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/yujia/www/chapter11/Exercise11_14.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8408072">
-              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+            <state vertical-scroll-proportion="1.8161435">
+              <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
               <folding>
-                <element signature="e#838#839#0" expanded="true" />
-                <element signature="e#868#869#0" expanded="true" />
-                <element signature="e#904#905#0" expanded="true" />
-                <element signature="e#934#935#0" expanded="true" />
-                <element signature="e#970#971#0" expanded="true" />
-                <element signature="e#1000#1001#0" expanded="true" />
-                <element signature="e#1036#1037#0" expanded="true" />
-                <element signature="e#1066#1067#0" expanded="true" />
+                <element signature="e#886#887#0" expanded="true" />
+                <element signature="e#916#917#0" expanded="true" />
+                <element signature="e#952#953#0" expanded="true" />
+                <element signature="e#982#983#0" expanded="true" />
+                <element signature="e#1018#1019#0" expanded="true" />
+                <element signature="e#1048#1049#0" expanded="true" />
+                <element signature="e#1084#1085#0" expanded="true" />
+                <element signature="e#1114#1115#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -357,8 +310,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="63" />
-    <option name="y" value="23" />
+    <option name="x" value="-41" />
+    <option name="y" value="32" />
     <option name="width" value="1377" />
     <option name="height" value="800" />
   </component>
@@ -1124,12 +1077,12 @@
       <workItem from="1552012942158" duration="3078000" />
       <workItem from="1552101827895" duration="1123000" />
       <workItem from="1552144138548" duration="8239000" />
-      <workItem from="1552189572228" duration="12284000" />
+      <workItem from="1552189572228" duration="12577000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65558000" />
+    <option name="totallyTimeSpent" value="65851000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1141,7 +1094,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="63" y="23" width="1377" height="800" extended-state="0" />
+    <frame x="-41" y="32" width="1377" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1445,17 +1398,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yujia/www/chapter11/Exercise11_14.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8408072">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        <state vertical-scroll-proportion="1.8161435">
+          <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
           <folding>
-            <element signature="e#838#839#0" expanded="true" />
-            <element signature="e#868#869#0" expanded="true" />
-            <element signature="e#904#905#0" expanded="true" />
-            <element signature="e#934#935#0" expanded="true" />
-            <element signature="e#970#971#0" expanded="true" />
-            <element signature="e#1000#1001#0" expanded="true" />
-            <element signature="e#1036#1037#0" expanded="true" />
-            <element signature="e#1066#1067#0" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
+            <element signature="e#916#917#0" expanded="true" />
+            <element signature="e#952#953#0" expanded="true" />
+            <element signature="e#982#983#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
+            <element signature="e#1048#1049#0" expanded="true" />
+            <element signature="e#1084#1085#0" expanded="true" />
+            <element signature="e#1114#1115#0" expanded="true" />
           </folding>
         </state>
       </provider>
