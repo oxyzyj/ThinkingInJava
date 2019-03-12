@@ -11,11 +11,11 @@ class Tank{
     this._isFilled = isFilled;
   }
 
-  void Fill() {
+  void fill() {
     _isFilled = true;
   }
 
-  void Empty() {
+  void empty() {
     _isFilled = false;
   }
 
@@ -30,10 +30,10 @@ class Tank{
 public class Exercise7_12 {
   public static void main(final String[] args) {
     final Tank t1 = new Tank();
-    t1.Fill();
+    t1.fill();
     final Tank t2 = new Tank();
-    t2.Fill();
-    t2.Empty();
+    t2.fill();
+    t2.empty();
     new Tank(true);  // drop the reference, forget to clean up
     System.gc();
     System.runFinalization();
