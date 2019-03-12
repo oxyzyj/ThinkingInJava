@@ -2,7 +2,7 @@ package com.yujia.www.chapter8;
 
 class Connection {
   private int id;
-  private Connection(int id) {
+  Connection(int id) {
     this.id = id;
   };
   static Connection makeConnection(int id) {
@@ -30,7 +30,7 @@ class ConnectionManager {
 }
 
 public class Exercise8_8 {
-  public static void main(String[] args) {
+  public static void main(final String[] args) {
     System.out.println(ConnectionManager.getConnection());
     System.out.println(ConnectionManager.getConnection());
     System.out.println(ConnectionManager.getConnection());
