@@ -1,17 +1,18 @@
 package com.yujia.www.chapter7;
 
 public class Exercise7_13 {
-  public enum Currency {
-    ONE,
-    TWO,
-    FIVE,
-    TEN,
-    TWENTY,
-    HUNDRED,
-  }
-  public static void main(final String[] args) {
-    for(final Currency c : Currency.values()) {
-      System.out.println(c.name());
+    public enum Currency {
+        ONE,
+        TWO,
+        FIVE,
+        TEN,
+        TWENTY,
+        HUNDRED,
+    }
+
+    public static void main(final String[] args) {
+        for (final Currency c : Currency.values()) {
+            System.out.println(c.name());
 //      switch (c) {
 //        case ONE:
 //          System.out.println("ONE");
@@ -31,6 +32,6 @@ public class Exercise7_13 {
 //        default:
 //          System.out.println("HUNDRED");
 //      }
+        }
     }
-  }
 }
