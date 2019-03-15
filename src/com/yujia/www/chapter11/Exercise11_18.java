@@ -1,4 +1,4 @@
-package com.yujia.www.chapter10;
+package com.yujia.www.chapter11;
 
 interface Cycle2 {
     void ride();
@@ -50,7 +50,7 @@ class Tricycle2Factory implements Cycle2Factory {
     }
 }
 
-public class Exercise11_17 {
+public class Exercise11_18 {
     public static void Rider(Cycle2Factory f) {
         Cycle2 c = f.getCycle();
         c.ride();
