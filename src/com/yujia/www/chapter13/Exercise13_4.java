@@ -25,14 +25,14 @@ class Generator {
 }
 
 public class Exercise13_4 {
-    public static void main(String[] args) {
+    public static void main(final String[] args) {
         Generator generator = new Generator();
 
         String[] result = generator.fill(new String[10]);
         for (int i = 0; i < 10; i++)
             System.out.print(result[i] + ", ");
         System.out.println();
-        
+
         System.out.println(generator.fill(new ArrayList<>(), 10));
         System.out.println(generator.fill(new LinkedList<>(), 10));
         System.out.println(generator.fill(new HashSet<>(), 10));
