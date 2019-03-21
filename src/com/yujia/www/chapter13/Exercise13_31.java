@@ -11,7 +11,6 @@ class Shape {
     }
 
     public void amend() {
-        System.out.println("Shape.amend()");
     }
 
     @Override
